@@ -19,7 +19,7 @@ Create a `config.json` at the project root (beside this README), or edit `config
 
 ```json
 {
-  "news_api_key": "89979b0c6ce5491d806d46102c44a9bb"
+  "news_api_key": "Your_api_key"
 }
 ```
 
